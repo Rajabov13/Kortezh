@@ -1,0 +1,29 @@
+АВТОРЫ 3D-МОДЕЛЕЙ МАШИН
+========================
+Все модели взяты с Sketchfab под лицензией Creative Commons Attribution 4.0
+(CC BY 4.0, https://creativecommons.org/licenses/by/4.0/).
+Изменения: модели упрощены, сжаты (Draco, WebP), развёрнуты и поставлены на землю,
+колёса выделены в отдельные узлы, чтобы крутиться в игре.
+
+Mercedes-Maybach S 680 (maybach) — «Mercedes-Benz Maybach 2022», автор: Qamk3Models
+    https://sketchfab.com/3d-models/mercedes-benz-maybach-2022-979f37a878f04b2a8d888b62ea6027e9
+Mercedes-Benz S-Class (sclass) — «Mercedes-Benz Maybach 2022», автор: Qamk3Models
+    https://sketchfab.com/3d-models/mercedes-benz-maybach-2022-979f37a878f04b2a8d888b62ea6027e9
+Mercedes-Benz E-Class (eclass) — «Mercedes E Class W212», автор: Peter_D
+    https://sketchfab.com/3d-models/mercedes-e-class-w212-119c5e10733142b197aa53b86f6aeb04
+BMW 7 Series (bmw7) — «BMW 7-series (F01)», автор: Black Snow
+    https://sketchfab.com/3d-models/bmw-7-series-f01-0806c39847ae42e5996917f50527dda0
+Audi A8 (a8) — «Audi A8 Custom 2018», автор: everhard
+    https://sketchfab.com/3d-models/audi-a8-custom-2018-cd094d03f7684809900a929a9c88c8db
+Mercedes-Benz G-Class (gclass) — «Mercedes-Benz BRABUS G900», автор: DAS AUTO
+    https://sketchfab.com/3d-models/mercedes-benz-brabus-g900-aad90805a0a84381bbee50f569e45d50
+G-Class бронированный (garmored) — «Mercedes Benz G-class W263», автор: Lexyc16
+    https://sketchfab.com/3d-models/mercedes-benz-g-class-w263-1a2a52b16cad4e618af347461817895c
+Range Rover (rangerover) — «Custom Range Rover Sport», автор: BadKarma™
+    https://sketchfab.com/3d-models/custom-range-rover-sport-1bd2ecc36e5148bb9e339b51d8638b37
+Toyota Land Cruiser 200 (lc200) — «Toyota_land_cruiser», автор: Jean-llace cars™
+    https://sketchfab.com/3d-models/toyota-land-cruiser-5d9786f638b24c8ead09bb158dc8812d
+Toyota Camry (camry) — «Camry Sedan (Experimental)», автор: Bandit.545
+    https://sketchfab.com/3d-models/camry-sedan-experimental-fa4f8d1af83445768a45a2d0fa4d9023
+Машины ДПС (Chevrolet Malibu) (police) — «Chevrolet Malibu Premier 2022», автор: Type_S
+    https://sketchfab.com/3d-models/chevrolet-malibu-premier-2022-55aa80115ee04aa79c802f3baf454326

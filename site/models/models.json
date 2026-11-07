@@ -1,0 +1,162 @@
+{
+ "_help": "Машины-модели для игры. Ключ — id машины, file — GLB в этой папке. paint/tail/head — регулярные выражения по именам материалов (кузов, стоп-сигналы, фары); wheels — имена узлов-колёс. credit — автор модели (лицензия CC BY 4.0 требует его указывать). Чтобы вернуть встроенную машину, удалите строку или переименуйте ключ, добавив _ в начало. Свои модели добавляются так же. recolor — перекрасить отдельные материалы: {\"имя\": \"#цвет\"}.",
+ "maybach": {
+  "file": "maybach.glb",
+  "paint": "^(Car_Paint_With_Flakes|Car_paint|Car_Paint)$",
+  "tail": "^(Red_car_lights_glass|Material\\.001)$",
+  "head": "^$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Mercedes-Benz Maybach 2022",
+   "author": "Qamk3Models",
+   "source": "https://sketchfab.com/3d-models/mercedes-benz-maybach-2022-979f37a878f04b2a8d888b62ea6027e9",
+   "license": "CC BY 4.0"
+  }
+ },
+ "sclass": {
+  "file": "maybach.glb",
+  "paint": "^(Car_Paint_With_Flakes|Car_paint|Car_Paint)$",
+  "tail": "^(Red_car_lights_glass|Material\\.001)$",
+  "head": "^$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Mercedes-Benz Maybach 2022",
+   "author": "Qamk3Models",
+   "source": "https://sketchfab.com/3d-models/mercedes-benz-maybach-2022-979f37a878f04b2a8d888b62ea6027e9",
+   "license": "CC BY 4.0"
+  }
+ },
+ "eclass": {
+  "file": "eclass.glb",
+  "paint": "^mat_body$",
+  "tail": "^mat_lights_glass2$",
+  "head": "^$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Mercedes E Class W212",
+   "author": "Peter_D",
+   "source": "https://sketchfab.com/3d-models/mercedes-e-class-w212-119c5e10733142b197aa53b86f6aeb04",
+   "license": "CC BY 4.0"
+  }
+ },
+ "bmw7": {
+  "file": "bmw7.glb",
+  "paint": "^Body_Color$",
+  "tail": "^Taillight_Glass$",
+  "head": "^Headlights_1$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "BMW 7-series (F01)",
+   "author": "Black Snow",
+   "source": "https://sketchfab.com/3d-models/bmw-7-series-f01-0806c39847ae42e5996917f50527dda0",
+   "license": "CC BY 4.0"
+  }
+ },
+ "a8": {
+  "file": "a8.glb",
+  "paint": "^a8texture12__(env_4|prim_env_4|sec_env_4)_spec$",
+  "tail": "^(vehiclelights__spec_RR|med__env_7_spec_trans)$",
+  "head": "^vehiclelights__spec_FR$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Audi A8 Custom 2018",
+   "author": "everhard",
+   "source": "https://sketchfab.com/3d-models/audi-a8-custom-2018-cd094d03f7684809900a929a9c88c8db",
+   "license": "CC BY 4.0"
+  }
+ },
+ "gclass": {
+  "file": "gclass.glb",
+  "paint": "^bodypaint$",
+  "tail": "^plastic5_7$",
+  "head": "^$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Mercedes-Benz BRABUS G900",
+   "author": "DAS AUTO",
+   "source": "https://sketchfab.com/3d-models/mercedes-benz-brabus-g900-aad90805a0a84381bbee50f569e45d50",
+   "license": "CC BY 4.0"
+  }
+ },
+ "garmored": {
+  "file": "garmored.glb",
+  "paint": "^Material\\.001$",
+  "tail": "^Material\\.013$",
+  "head": "^Material\\.014$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Mercedes Benz G-class W263",
+   "author": "Lexyc16",
+   "source": "https://sketchfab.com/3d-models/mercedes-benz-g-class-w263-1a2a52b16cad4e618af347461817895c",
+   "license": "CC BY 4.0"
+  }
+ },
+ "rangerover": {
+  "file": "rangerover.glb",
+  "paint": "^Car_Paint$",
+  "tail": "^(Brake_Light_Cover|Darker_Clear_Glass)$",
+  "head": "^Front_Bumper_DRLs$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Custom Range Rover Sport",
+   "author": "BadKarma™",
+   "source": "https://sketchfab.com/3d-models/custom-range-rover-sport-1bd2ecc36e5148bb9e339b51d8638b37",
+   "license": "CC BY 4.0"
+  }
+ },
+ "lc200": {
+  "file": "lc200.glb",
+  "paint": "^(Black_plastic_PL|material|Chrome2|Regular|Metal_Black_Dixon)$",
+  "tail": "^(BrakeLight|RedGlass)$",
+  "head": "^$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Toyota_land_cruiser",
+   "author": "Jean-llace cars™",
+   "source": "https://sketchfab.com/3d-models/toyota-land-cruiser-5d9786f638b24c8ead09bb158dc8812d",
+   "license": "CC BY 4.0"
+  },
+  "recolor": {
+   "^Brake_Disc$": "#4a4a4a"
+  }
+ },
+ "camry": {
+  "file": "camry.glb",
+  "paint": "^Material$",
+  "tail": "^Material\\.001$",
+  "head": "^$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Camry Sedan (Experimental)",
+   "author": "Bandit.545",
+   "source": "https://sketchfab.com/3d-models/camry-sedan-experimental-fa4f8d1af83445768a45a2d0fa4d9023",
+   "license": "CC BY 4.0"
+  }
+ },
+ "police": {
+  "file": "police.glb",
+  "paint": "^malibupaint$",
+  "tail": "^(malibured|tled)$",
+  "head": "^$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Chevrolet Malibu Premier 2022",
+   "author": "Type_S",
+   "source": "https://sketchfab.com/3d-models/chevrolet-malibu-premier-2022-55aa80115ee04aa79c802f3baf454326",
+   "license": "CC BY 4.0"
+  }
+ },
+ "malibu": {
+  "file": "police.glb",
+  "paint": "^malibupaint$",
+  "tail": "^(malibured|tled)$",
+  "head": "^$",
+  "wheels": "^wheel_[FR][AB]$",
+  "credit": {
+   "title": "Chevrolet Malibu Premier 2022",
+   "author": "Type_S",
+   "source": "https://sketchfab.com/3d-models/chevrolet-malibu-premier-2022-55aa80115ee04aa79c802f3baf454326",
+   "license": "CC BY 4.0"
+  }
+ }
+}

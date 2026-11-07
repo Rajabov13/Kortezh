@@ -1,0 +1,10 @@
+{
+  "name": "КОРТЕЖ: Успей на работу",
+  "short_name": "КОРТЕЖ",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#06090f",
+  "theme_color": "#06090f",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
